@@ -2,7 +2,7 @@
     "MSG_WELCOME" : "\nBienvenu au calculateur de notes\n\n",
     "NOTICE"  : "Ce programme, libre d'utilisation, permet de calculer sa moyenne universitaire(à l'UL) sur 4.33.\nPar défaut, tous les cours sont considérés à 3 crédits.\nCe programme a été écrit par {}, étudiant de l' UL\n\n",
     "AUTHOR" : "Bertrand Awenze",
-    "URL_REF" : "https://vu.fr/cSaEg",
+    "URL_REF" : "https://www.ulaval.ca/sites/default/files/etudiants-actuels/%C3%89tudes/REG-900-RN.pdf",
     "URL_MASK" : "Vous trouverez la documentation du système de notation ULaval là :> {}",
     "MSG_NB_C" : "\nVeuillez, s'il vous plaît, indiquer le nombre de cours déjà suivis :> ",
     "MSG_SCORE" : "Quelle note [en lettre(s)] avez-vous obtenue pour le cours {} :> ",
