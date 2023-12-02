@@ -3,15 +3,17 @@
     "NOTICE"  : "Ce programme, libre d'utilisation, permet de calculer sa moyenne universitaire(à l'UL) sur 4.33.\nPar défaut, tous les cours sont considérés à 3 crédits.\nCe programme a été écrit par {}, étudiant de l' UL\n\n",
     "AUTHOR" : "Bertrand Awenze",
     "URL_REF" : "https://www.ulaval.ca/sites/default/files/etudiants-actuels/%C3%89tudes/REG-900-RN.pdf",
-    "URL_MASK" : "Vous trouverez la documentation du système de notation ULaval là :> {}",
+    "URL_MASK" : "Vous trouverez la documentation du système de notation ULaval à l'adresse suivante :\n {}",
     "MSG_NB_C" : "\nVeuillez, s'il vous plaît, indiquer le nombre de cours déjà suivis :> ",
     "MSG_SCORE" : "Quelle note [en lettre(s)] avez-vous obtenue pour le cours {} :> ",
     "MSG_RES" : "\nVotre moyenne est de :> ",
     "MSG_CLOSE" : "Voulez-vous arrêter [y/n] ? :> ",
-    "NUM_VAL_SCORE" : { "A+" : 4.33, "A" : 4.00, "A-": 3.67,
-                    "B+" : 3.33, "B" : 3.00, "B-": 2.67, 
-                    "C+" : 2.33, "C" : 2.00, "C-" : 1.67, 
-                    "D+" : 1.33, "D" : 1.00, "E" : 0.00, 
-                    "W" : 0.00}
+    "NUM_VAL_SCORE" : { 
+                        "A+" : 4.33, "A" : 4.00, "A-": 3.67,
+                        "B+" : 3.33, "B" : 3.00, "B-": 2.67, 
+                        "C+" : 2.33, "C" : 2.00, "C-" : 1.67, 
+                        "D+" : 1.33, "D" : 1.00, "E" : 0.00, 
+                        "W" : 0.00
+                    }
 
 } 
